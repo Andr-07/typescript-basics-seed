@@ -1,4 +1,3 @@
-export class Foo {
-    constructor(public name: string) {}
-    bar(age:number){}
+class Person {
+    name:string = "Andrey"
 }
